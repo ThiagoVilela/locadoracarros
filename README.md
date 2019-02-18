@@ -4,10 +4,10 @@ Esse projeto tem como intuito ser um teste avaliativo para a vaga de desenvolved
 Ele consiste em ler um arquivo com um intervalo de datas pré-definido, o número de passageiros, e retornar ao usuário (por meio de outro arquivo),
 a locadora que possui o menor custo e atende as suas necessidades.
 
-### Pré-requisitos
+### Como funciona
 
 Você precisa ter uma versão atual do Java no ambiente de execução.
-Preencher o arquivo no modelo corretamente, seguindo o tema <DATA1>,<DATA2>:<NUMERO_PASSAGEIROS>
+Preencher o arquivo no modelo corretamente, seguindo o tema:
 
 ```
 01Jun2019 (qua),02Jul2019 (sex):2
@@ -18,8 +18,11 @@ Preencher o arquivo no modelo corretamente, seguindo o tema <DATA1>,<DATA2>:<NUM
 ```
 01Jun2019,02Jul2019:2
 ```
-Também é aceito.
+Também é aceito. A saída representa o tipo de carro que a locadora fornece e o nome da locadora.
 
+```
+Carro Compacto:SouthCar
+```
 ## Testes
 
 Uma série de testes foi configurada para este programam, utilizando o jUnit, testando suas ações e métodos.
