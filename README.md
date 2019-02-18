@@ -7,7 +7,7 @@ a locadora que possui o menor custo e atende as suas necessidades.
 ### Como funciona
 
 Você precisa ter uma versão atual do Java no ambiente de execução.
-Preencher o arquivo no modelo corretamente, seguindo o tema:
+Preencher o arquivo de entrada (entrada.txt) no modelo corretamente, seguindo o tema:
 
 ```
 01Jun2019 (qua),02Jul2019 (sex):2
@@ -19,6 +19,7 @@ Preencher o arquivo no modelo corretamente, seguindo o tema:
 01Jun2019,02Jul2019:2
 ```
 Também é aceito. A saída representa o tipo de carro que a locadora fornece e o nome da locadora.
+O arquivo de saída atual é saída.txt
 
 ```
 Carro Compacto:SouthCar
